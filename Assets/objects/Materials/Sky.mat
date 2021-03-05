@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sky
+  m_Shader: {fileID: -6465566751694194690, guid: 4bdc6112b3325c44e8562968ff22980e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Clouds_texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_cc9d60873e354ec2a41bd7d02c9cfe68:
+        m_Texture: {fileID: 2800000, guid: 7bb0427d279beb343b84799f87de3a6a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_6e7dba51eebe49068073a48e8259c886: 1
+    - Boolean_7cb2c7c191304b0d9738aa04e1db7b30: 1
+    - Clouds_density: 1
+    - Clouds_distance_fade: 0.1
+    - Clouds_step: 0.85
+    - Fog_height: 50
+    - Fog_on_off: 1
+    - Ground_blend_power: 0.121
+    - Moon_mask_size: 0.24
+    - Moon_size: 0.23
+    - Moon_smoothness: 0.0054
+    - Procedural_clouds_on_off: 1
+    - Sky_blend_power: 0.496
+    - Stars_alpha: 0
+    - Stars_count: 8
+    - Stars_power: 100
+    - Sun_size: 0.3
+    - Sun_smoothness: 0.01
+    - Vector1_02a449f82f6f42bb9a147a12d61777d8: 0.1
+    - Vector1_0332d0f00f0840f6a07d8c725ecb5bfc: 0
+    - Vector1_04981e7306bb4cb08ab9f969f8369fc9: 0.85
+    - Vector1_1: 0.3
+    - Vector1_17f87c5606884143aeea302b8592178b: 0.1
+    - Vector1_19d1c10d6c304c6a889991acbc992157: 0.04
+    - Vector1_2: 1
+    - Vector1_309d775c745344b7bace5ba60f33f82c: 0.28
+    - Vector1_5cc79a62d47443deb9b947875e8076fd: 0.01
+    - Vector1_76626eabc91749f496a9cbfa4209fc1c: 1438.47
+    - Vector1_76b222077afc46d3be4e538f99005abb: 0.496
+    - Vector1_911e7cf41b604df2b6bf4cbb4e381052: 0.3
+    - Vector1_c48d55e4298f4edfa7ca1f75c9b45ee7: 8
+    - Vector1_c9ca61a94ceb4a3ab8a95cebb64f32da: 1
+    - Vector1_c9ca61a94ceb4a3ab8a95cebb64f32da_1: 0.15
+    - Vector1_ccbb95bf2e6c469b94f1168c58a6050a: 100
+    - Vector1_ce2d8586ba9840f2bdaf5b0bd97871ca: 50
+    - Vector1_dc515ba8eb374778b72417c79f1a23e9: 0.01
+    - Vector1_dcabbafb4e474c6f88efc8de7d2f88c9: 1
+    - Vector1_f808aef7941e4132a7d3437392d5229d: 0.121
+    - _CloudsChangeSpeed: 0.1
+    - _CloudsMaskSize: 0.15
+    - _CloudsSize: 1
+    - _MoonMaskSize: 0.3
+    - _WindSpeed: 0.04
+    m_Colors:
+    - Clouds_color: {r: 1, g: 1, b: 1, a: 1}
+    - Color_20663e49b7dd44ffa2b0473658bc136d: {r: 1, g: 1, b: 1, a: 0.84313726}
+    - Color_5721c524a3844936a8ab28aad748c345: {r: 1, g: 0.9511015, b: 0.7877358, a: 1}
+    - Color_6ed53d4e92e44e729524e3d834b16968: {r: 1.4142135, g: 1.4142135, b: 1.4142135, a: 1}
+    - Color_9e6b77954936422eac21fd5943ff4530: {r: 0.8679245, g: 0.5794253, b: 0, a: 1}
+    - Color_a5b1ab62d9ba40e2a474b00af85a8eb2: {r: 1, g: 0.7608102, b: 0, a: 1}
+    - Color_ae9037d5af7f4c50be4977f6e1562722: {r: 0, g: 0.6155896, b: 1, a: 1}
+    - Moon_color: {r: 0.014879928, g: 0.017534563, b: 0.017813997, a: 1}
+    - Sun_color: {r: 1, g: 0.86012554, b: 0.6081921, a: 1}
+    - Vector3_9b2a55150eab4c3da9cc2e8c154a47eb: {r: 0, g: 0, b: 0, a: 0}
+    - Vector3_d50635e70c5f4e4c9a97a341be25d34d: {r: 0, g: 0, b: 0, a: 0}
+    - _GorizontColor: {r: 0.74757046, g: 0.786589, b: 0.5667758, a: 1}
+    - _Ground_color: {r: 0.8745099, g: 0.5764706, b: 0.003921569, a: 1}
+    - _Ground_olor: {r: 0.8745099, g: 0.5764706, b: 0.003921569, a: 1}
+    - _SkyColor: {r: 0.37472832, g: 0.52315617, b: 0.597707, a: 1}
+    - _SunDirection: {r: 0.5, g: 0.5, b: 0, a: 0}
+  m_BuildTextureStacks: []
