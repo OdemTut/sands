@@ -91,13 +91,13 @@ Material:
     - Color_9e6b77954936422eac21fd5943ff4530: {r: 0.8679245, g: 0.5794253, b: 0, a: 1}
     - Color_a5b1ab62d9ba40e2a474b00af85a8eb2: {r: 1, g: 0.7608102, b: 0, a: 1}
     - Color_ae9037d5af7f4c50be4977f6e1562722: {r: 0, g: 0.6155896, b: 1, a: 1}
-    - Moon_color: {r: 0.014879928, g: 0.017534563, b: 0.017813997, a: 1}
-    - Sun_color: {r: 1, g: 0.86012554, b: 0.6081921, a: 1}
+    - Moon_color: {r: 0.36199096, g: 0.4265715, b: 0.43336943, a: 1}
+    - Sun_color: {r: 0.9059657, g: 0.6437332, b: 0.22737962, a: 1}
     - Vector3_9b2a55150eab4c3da9cc2e8c154a47eb: {r: 0, g: 0, b: 0, a: 0}
     - Vector3_d50635e70c5f4e4c9a97a341be25d34d: {r: 0, g: 0, b: 0, a: 0}
-    - _GorizontColor: {r: 0.74757046, g: 0.786589, b: 0.5667758, a: 1}
+    - _GorizontColor: {r: 0.9245784, g: 0.6646541, b: 0.028387714, a: 1}
     - _Ground_color: {r: 0.8745099, g: 0.5764706, b: 0.003921569, a: 1}
     - _Ground_olor: {r: 0.8745099, g: 0.5764706, b: 0.003921569, a: 1}
-    - _SkyColor: {r: 0.37472832, g: 0.52315617, b: 0.597707, a: 1}
+    - _SkyColor: {r: 0.67887694, g: 0.6098293, b: 0.4323455, a: 1}
     - _SunDirection: {r: 0.5, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fdff7ea39ba42d5479b01b9193ae11eb, type: 3}
   m_Name: HeatDistortion
   m_EditorClassIdentifier: 
-  m_Active: 0
+  m_Active: 1
   settings:
     Event: 550
     blitMaterial: {fileID: 2100000, guid: 157eb1e7d6d483247941dd436d3dd516, type: 2}
